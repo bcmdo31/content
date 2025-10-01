@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'HansolDaumS';
+  font-style: normal;
+  font-weight: 400;
+  src: url(HansolDaumM.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'HansolDaumS';
+  font-style: Bold;
+  font-weight: 700;
+  src: url(HansolDaumB.woff) format('woff');
+}
